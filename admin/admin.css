@@ -1,0 +1,10 @@
+body{
+    background-image: url("admin.jpg");
+    background-color: #cccccc9f;
+    height: 500px;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color:brown;
+  }

@@ -1,0 +1,8 @@
+body{
+    background-image:url("complaint_background.jpg");
+    background-size:cover;
+    background-attachment:fixed;
+    background-position:100%,100%;
+    color:aquamarine;
+    height:100%;
+}

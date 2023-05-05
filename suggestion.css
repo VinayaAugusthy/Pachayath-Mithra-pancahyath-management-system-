@@ -1,0 +1,16 @@
+h2{
+  color:white;
+  text-align:center;
+  text-decoration:underline;
+}
+
+body{
+    background-image: url("d.jpg");
+    background-color: rgb(204, 204, 204);
+    height: 500px;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color:white;
+  }

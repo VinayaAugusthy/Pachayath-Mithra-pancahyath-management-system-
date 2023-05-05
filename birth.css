@@ -1,0 +1,13 @@
+
+  
+  body{
+      background-image: url("birth.jpg");
+      background-color: #cccccc;
+      height: 500px;
+      background-position: cover;
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: relative;
+      color:white;
+    }
+  
